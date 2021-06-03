@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The States-man's almanack being an excellent new ballad in which the qualities of each month are consider'd, whereby it appears that a parliament cannot meet in any of the old months : with a proposal for mending the kalendar, humbly offered to the packers of the next Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16990</idno><idno type="EEBO-CITATION">8441119</idno>
+  <idno type="VID">204277</idno>
+  <idno type="EEBO-PROQUEST">2264205526</idno>
+  
+            <idno type="STC">Wing A2399</idno>
+            <idno type="OCLC">08441119</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204277)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The States-man's almanack being an excellent new ballad in which the qualities of each month are consider'd, whereby it appears that a parliament cannot meet in any of the old months : with a proposal for mending the kalendar, humbly offered to the packers of the next Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated: September the 1st. From the imperial camp before Belgrade to Chavelier Janco Don Lazarillo.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Caricatures and cartoons.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:204277:1"/>
+            <pb facs="tcp:204277:2"/>
+            <head>THE States-Man's Almanack: Being an Excellent New BALLAD, in which, the Qualities of each MONTH are Consider'd; whereby it appears, that a PARLIAMENT cannot meet in any of the Old MONTHS: With a Proposal for mending the KALENDAR, Humbly off<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red to the Packers of the n<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt PARLIAMENT.</head>
+            <opener>To the Tune of <hi>Cold and Raw, the North did blow,</hi> &amp;c.</opener>
+            <div type="prologue">
+               <head>PROLOGUE.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>THE Talk up and down,</l>
+                  <l>In Country and Town,</l>
+                  <l>Has been long of Parliaments Sitting:</l>
+                  <l>But we'll make it cleer,</l>
+                  <l>Ne'r a Month in the Year,</l>
+                  <l>Is proper for such a Meeting.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>The Judges declare it,</l>
+                  <l>The Ministers swear it,</l>
+                  <l>And the Town as a Tale receives it:</l>
+                  <l>Let 'em say what they can,</l>
+                  <l>There's never a Man,</l>
+                  <l>Except God's Vicegerent believes it.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>If the Criticks in spight,</l>
+                  <l>Our Arguments slight;</l>
+                  <l>And think 'em too light for the Master:</l>
+                  <l>It has often been known,</l>
+                  <l>That Men on a Throne,</l>
+                  <l>Has Harrang'd the whole Realm with no better.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>For in times of old,</l>
+                  <l>When Kings were less bold,</l>
+                  <l>And made for their faults Excuses:</l>
+                  <l>Such Topick's as these,</l>
+                  <l>The Commons to please,</l>
+                  <l>Did serve for most Excellent Uses.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>Either <hi>Christmas</hi> came on,</l>
+                  <l>Or Harvest begun,</l>
+                  <l>And all must repair to their Station:</l>
+                  <l>'Twas too dry, or too wet,</l>
+                  <l>For the Houses to Sit,</l>
+                  <l>And Hey for a Prorogation.</l>
+               </lg>
+               <lg>
+                  <head>VI.</head>
+                  <l>Then, Sir, if you please,</l>
+                  <l>With such Reasons as these,</l>
+                  <l>Let's see how each Moon is appointed.</l>
+                  <l>For tho it be strange</l>
+                  <l>In all her Change,</l>
+                  <l>She Favours not God's Anointed.</l>
+               </lg>
+            </div>
+            <div type="almanac">
+               <head>The ALMANACK.</head>
+               <div n="January" type="month">
+                  <head>January.</head>
+                  <lg>
+                     <head>I.</head>
+                     <l>
+                        <hi>January.</hi>
+                     </l>
+                     <l>THE first is to cold,</l>
+                     <l>For Popery to hold,</l>
+                     <l>Since Southern Climates Improve it:</l>
+                     <l>And therefore in Frost,</l>
+                     <l>'Tis Odds but its lost,</l>
+                     <l>If they offer to remove it.</l>
+                  </lg>
+               </div>
+               <div n="February" type="month">
+                  <head>February,</head>
+                  <lg>
+                     <head>II.</head>
+                     <l>The next <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lo's betide,</l>
+                     <l>(Tho them the King dy'd)</l>
+                     <l>Ill luck, and they must not be <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ampring:</l>
+                     <l>For had not Providence quick,</l>
+                     <l>Cool'd his Head i'th' Nick,</l>
+                     <l>'Fore God they were all a scampring.</l>
+                  </lg>
+               </div>
+               <div n="March" type="month">
+                  <head>March.</head>
+                  <lg>
+                     <head>III.</head>
+                     <l>The Month of Old <hi>Rome,</hi>
+                     </l>
+                     <l>Has an Omen with some;</l>
+                     <l>But the sleeping Wind then Rouzes,</l>
+                     <l>And trust not the crowd,</l>
+                     <l>When Storms are so lowd,</l>
+                     <l>Least their Breath infect the Houses.</l>
+                  </lg>
+               </div>
+               <div n="April" type="month">
+                  <head>April.</head>
+                  <lg>
+                     <head>IV.</head>
+                     <l>In this by Mishap.</l>
+                     <l>
+                        <hi>Southask</hi> had a clap,</l>
+                     <l>Which pepper'd our Gracious Master:</l>
+                     <l>And therefore i'th' Spring,</l>
+                     <l>He must Physick his Thing,</l>
+                     <l>And venture no new Disaster.</l>
+                  </lg>
+               </div>
+               <div n="May" type="month">
+                  <head>May.</head>
+                  <lg>
+                     <head>V.</head>
+                     <l>This Month is too good,</l>
+                     <l>And too lusty his Blood,</l>
+                     <l>To be for Business at leasure,</l>
+                     <l>VVith his Confessors leave,</l>
+                     <l>Honest <hi>Bridget</hi> may give,</l>
+                     <l>The Fumbler Royal his Pleasure.</l>
+                  </lg>
+               </div>
+               <div n="June" type="month">
+                  <head>June.</head>
+                  <lg>
+                     <head>VI.</head>
+                     <l>The Brains of the State,</l>
+                     <l>Have been too hot of late,</l>
+                     <l>They have manag'd all Business in rapture:</l>
+                     <l>And to call us in <hi>June,</hi>
+                     </l>
+                     <l>Is much to the same Tune,</l>
+                     <l>Being mad to the end of the Chapter.</l>
+                  </lg>
+               </div>
+               <div n="July" type="month">
+                  <pb facs="tcp:204277:3"/>
+                  <head>July</head>
+                  <lg>
+                     <head>VII.</head>
+                     <l>This Season was made,</l>
+                     <l>For Camp, and Parade,</l>
+                     <l>VVhere with the Expence of his Treasures,</l>
+                     <l>Of much Sweat and Pains,</l>
+                     <l>Discreetly he Trains,</l>
+                     <l>Such Men, as will break all his Measures.</l>
+                  </lg>
+               </div>
+               <div n="August" type="month">
+                  <head>August.</head>
+                  <lg>
+                     <head>VIII.</head>
+                     <l>This Month did advance</l>
+                     <l>Our Projects in <hi>France,</hi>
+                     </l>
+                     <l>As <hi>Bartholomew</hi> Remembers</l>
+                     <l>But alas they want force,</l>
+                     <l>To take the same Course,</l>
+                     <l>VVith Our Heretical Members.</l>
+                  </lg>
+               </div>
+               <div n="September" type="month">
+                  <head>September</head>
+                  <lg>
+                     <head>IX.</head>
+                     <l>They cannot now meet,</l>
+                     <l>For the Progress was set,</l>
+                     <l>But they find it a scurvy Fashion:</l>
+                     <l>To ride, and to ride,</l>
+                     <l>To be snub'd and deny'd,</l>
+                     <l>By every good man in the Nation.</l>
+                  </lg>
+               </div>
+               <div n="October" type="month">
+                  <head>October.</head>
+                  <lg>
+                     <head>X.</head>
+                     <l>Now Hunting comes in,</l>
+                     <l>That Liscence for Sin,</l>
+                     <l>That do's with a Cloak befriend him,</l>
+                     <l>For if the Queen knows,</l>
+                     <l>VVhat at <hi>Graham</hi>'s he do's,</l>
+                     <l>His Divine Right can hardly defend him,</l>
+                  </lg>
+               </div>
+               <div n="November" type="month">
+                  <head>November.</head>
+                  <lg>
+                     <head>XI.</head>
+                     <l>
+                        <hi>November,</hi> might do,</l>
+                     <l>For ought that we know:</l>
+                     <l>But that the King promis'd by chance Sirs,</l>
+                     <l>And his word before,</l>
+                     <l>Was pawn'd for much more,</l>
+                     <l>Then er'e 'twill be able to Answer.</l>
+                  </lg>
+               </div>
+               <div n="December" type="month">
+                  <head>December.</head>
+                  <lg>
+                     <head>XII.</head>
+                     <l>The last of the year,</l>
+                     <l>Resemblance does bear,</l>
+                     <l>To their hopes and fortune declining:</l>
+                     <l>Ne'er hope for success,</l>
+                     <l>Day grows less and less,</l>
+                     <l>And the Sun once so high has done shining</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="epilogue">
+               <head>EPILOGUE.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>You Gypsies of <hi>Rome,</hi>
+                  </l>
+                  <l>That run up and down,</l>
+                  <l>And with Miracles people Cozen:</l>
+                  <l>By the help of some Saint,</l>
+                  <l>Get the Month that you want,</l>
+                  <l>And make Thirteen of the Dozen.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>You see the old Year</l>
+                  <l>Wont help yea, 'tis clear,</l>
+                  <l>And therefore, to save your honour:</l>
+                  <l>Get a New Sun and Moon,</l>
+                  <l>And the work is halfdone,</l>
+                  <l>And Faith I think not sooner.</l>
+               </lg>
+            </div>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>September</hi> the 1<hi>st.</hi>
+                  </date> From the <hi>Imperial</hi> Camp before <hi>Belgrade,</hi>
+               </dateline> to <hi>Chavelier Janco Don Lazarillo.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
